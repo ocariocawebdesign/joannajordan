@@ -29,7 +29,7 @@ const Content = () => (
                                             alt="Foto perfil"
                                           />
                                       </div>
-                                          <h1 className="text-center">Joanna Jordan</h1>
+                                          <h1 className="text-center name-title">Joanna Jordan</h1>
                                           <p className="text-center">🏆 Bicampeã Wellness</p>
                                           <h5 className="text-center"> 🧠 Ajudo mulheres a explorar o máximo do seu potencial fisico e mental 🔥</h5>
                                           <div id="container-instagram-feed">
