@@ -869,7 +869,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   src: _Content_img_profile_png__WEBPACK_IMPORTED_MODULE_1__["default"],
   alt: "Foto perfil"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
-  className: "text-center"
+  className: "text-center name-title"
 }, "Joanna Jordan"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-center"
 }, "\uD83C\uDFC6 Bicampea\u0303 Wellness"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
