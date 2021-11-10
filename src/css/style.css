@@ -144,6 +144,26 @@ margin-bottom: 2rem;
 
 
 
+.sobre{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  background:#200a25;
+  padding:1rem;
+  opacity: 0.8;
+  margin-bottom: 2rem;
+  
+}
+
+.foto-sobre{
+  border:3px solid #FAFAFA;
+  border-radius: 3px;
+  
+
+}
+
+
 .box-content_primary_2 {
   background-color: rgb(207, 132, 45);
   position: relative; /* Adicionamos essa linha */
@@ -245,10 +265,20 @@ margin-left: 1rem;
 }
 
 .card-body{
-  opacity: 0.8!important;
+  
   background-color:#000;
   color:#FAFAFA;
   border-color: #D48D1E;
+
+}
+
+
+.card{
+  
+  border-radius: 3px;
+  border:2px solid #D48D1E;;
+
+
 }
 .btn-primary {
   color: #fff;

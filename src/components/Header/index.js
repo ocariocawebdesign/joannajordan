@@ -1,7 +1,7 @@
 import React from "react";
-import Logo from "../Header/img/logo-teste.png";
-import InstagramLogo from "../Footer/img/instagram.png"
-import WhatsAppLogo from "../Footer/img/whatsapp.png"
+//import Logo from "../Header/img/logo-teste.png";
+//import InstagramLogo from "../Footer/img/instagram.png"
+//import WhatsAppLogo from "../Footer/img/whatsapp.png"
 
 const Header = () => (
   <header>

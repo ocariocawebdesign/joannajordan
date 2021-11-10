@@ -874,7 +874,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "text-center"
 }, "\uD83C\uDFC6 Bicampea\u0303 Wellness"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
   className: "text-center"
-}, " \uD83E\uDDE0 Ajudo mulheres a explorar o m\xE1ximo do seu potencial fisico e mental \uD83D\uDD25"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "container-instagram-feed"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_3__["default"], {
   className: "col-xs-12 col-sm-12 instagram-imgs",
@@ -1015,10 +1015,14 @@ const Header = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().c
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6"
-}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h4", {
+  className: "text-center name-title-header"
+}, "Bem vinda ao pr\xF3ximo n\xEDvel!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "box-header-2",
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 "
-}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null))));
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h6", {
+  className: "text-center name-title-header"
+}, "\uD83E\uDDE0 Ajudo mulheres a explorar o m\xE1ximo do seu potencial fisico e mental \uD83D\uDD25")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null))));
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);
 

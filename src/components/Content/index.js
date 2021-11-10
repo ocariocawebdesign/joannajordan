@@ -1,6 +1,8 @@
 import React from "react";
 import Profile from "../Content/img/profile.png";
 import JoannaCard1 from "../Content/img/joanna1.png";
+import Joanna1 from "../Content/img/joanna1.jpg";
+
 
 import InstagramFeed  from 'react-ig-feed'
 import 'react-ig-feed/dist/index.css'
@@ -29,9 +31,23 @@ const Content = () => (
                                             alt="Foto perfil"
                                           />
                                       </div>
-                                          <h1 className="text-center name-title">Joanna Jordan</h1>
+                                          <h1 className="text-center name-title-header">Joanna Jordan</h1>
                                           <p className="text-center">🏆 Bicampeã Wellness</p>
                                           <h5 className="text-center"></h5>
+
+                                          <div  className="row">
+        <div  className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
+          <img src={Joanna1} className="foto-sobre" alt=""/>
+      </div>
+
+      <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
+
+        <p className="text-left name-title-header">Joanna Jordan, hoje trabalha como personal trainner em várias academias do Rio de Janeiro e tem como principal desafio levar saúde as pessoas.<br/>
+        Sua paixão pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.<br/> <cite>O esporte salvou minha vida!</cite></p><brr/>
+        
+
+      </div>
+      </div>
                                           <div id="container-instagram-feed">
                                           <InstagramFeed className="col-xs-12 col-sm-12 instagram-imgs" token={'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD'}  counter="12"/>
                                           <br/>
@@ -48,6 +64,10 @@ const Content = () => (
                  
           </div>
       </div>
+
+      
+
+
     </section>
       <section id="conteudo-fotos">
         <div className="container">
@@ -88,17 +108,20 @@ const Content = () => (
                 <a href="#" className="btn btn-primary">Saiba mais...</a>
               </div>
             </div>
-
-
-
             </div>
 
           </div>
         </div>
       </section>
+
+      
       <section>
       <div className="row">
       <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+        
+
+
       <DiscussionEmbed 
         shortname='ocariocaweb'
         config={
