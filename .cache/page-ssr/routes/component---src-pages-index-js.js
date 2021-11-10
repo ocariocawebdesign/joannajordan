@@ -834,10 +834,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Content_img_profile_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Content/img/profile.png */ "./src/components/Content/img/profile.png");
 /* harmony import */ var _Content_img_joanna1_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Content/img/joanna1.png */ "./src/components/Content/img/joanna1.png");
-/* harmony import */ var react_ig_feed__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-ig-feed */ "./node_modules/react-ig-feed/dist/index.modern.js");
-/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-ig-feed/dist/index.css */ "./node_modules/react-ig-feed/dist/index.css");
-/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var disqus_react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! disqus-react */ "./node_modules/disqus-react/lib/index.js");
+/* harmony import */ var _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Content/img/joanna1.jpg */ "./src/components/Content/img/joanna1.jpg");
+/* harmony import */ var react_ig_feed__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-ig-feed */ "./node_modules/react-ig-feed/dist/index.modern.js");
+/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-ig-feed/dist/index.css */ "./node_modules/react-ig-feed/dist/index.css");
+/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var disqus_react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! disqus-react */ "./node_modules/disqus-react/lib/index.js");
+
 
 
 
@@ -869,14 +871,26 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   src: _Content_img_profile_png__WEBPACK_IMPORTED_MODULE_1__["default"],
   alt: "Foto perfil"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
-  className: "text-center name-title"
+  className: "text-center name-title-header"
 }, "Joanna Jordan"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-center"
 }, "\uD83C\uDFC6 Bicampea\u0303 Wellness"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
   className: "text-center"
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+  src: _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_3__["default"],
+  className: "foto-sobre",
+  alt: ""
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+  className: "text-left name-title-header"
+}, "Joanna Jordan, hoje trabalha como personal trainner em v\xE1rias academias do Rio de Janeiro e tem como principal desafio levar sa\xFAde as pessoas.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), "Sua paix\xE3o pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("cite", null, "O esporte salvou minha vida!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("brr", null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "container-instagram-feed"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_3__["default"], {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_4__["default"], {
   className: "col-xs-12 col-sm-12 instagram-imgs",
   token: 'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD',
   counter: "12"
@@ -941,7 +955,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-12 col-lg-12"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(disqus_react__WEBPACK_IMPORTED_MODULE_5__.DiscussionEmbed, {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(disqus_react__WEBPACK_IMPORTED_MODULE_6__.DiscussionEmbed, {
   shortname: "ocariocaweb",
   config: {
     url: 'http://localhost:8000/',
@@ -1001,13 +1015,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Header_img_logo_teste_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Header/img/logo-teste.png */ "./src/components/Header/img/logo-teste.png");
-/* harmony import */ var _Footer_img_instagram_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Footer/img/instagram.png */ "./src/components/Footer/img/instagram.png");
-/* harmony import */ var _Footer_img_whatsapp_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Footer/img/whatsapp.png */ "./src/components/Footer/img/whatsapp.png");
-
-
-
-
+ //import Logo from "../Header/img/logo-teste.png";
+//import InstagramLogo from "../Footer/img/instagram.png"
+//import WhatsAppLogo from "../Footer/img/whatsapp.png"
 
 const Header = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("header", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "container"
@@ -3138,6 +3148,21 @@ module.exports.PROCESSING_OPTIONS = PROCESSING_OPTIONS;
 
 /***/ }),
 
+/***/ "./src/components/Content/img/joanna1.jpg":
+/*!************************************************!*\
+  !*** ./src/components/Content/img/joanna1.jpg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/joanna1-a90e3e6c2a573a7effc203cd99d0430f.jpg");
+
+/***/ }),
+
 /***/ "./src/components/Content/img/joanna1.png":
 /*!************************************************!*\
   !*** ./src/components/Content/img/joanna1.png ***!
@@ -3165,51 +3190,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/profile-c565c0fde8cc33f38ef16f559973a482.png");
-
-/***/ }),
-
-/***/ "./src/components/Footer/img/instagram.png":
-/*!*************************************************!*\
-  !*** ./src/components/Footer/img/instagram.png ***!
-  \*************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/instagram-c3d0679865f6768b8afcbb34a893ba1e.png");
-
-/***/ }),
-
-/***/ "./src/components/Footer/img/whatsapp.png":
-/*!************************************************!*\
-  !*** ./src/components/Footer/img/whatsapp.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/whatsapp-464a9a91419d3ccaa35665ff6ad41d7d.png");
-
-/***/ }),
-
-/***/ "./src/components/Header/img/logo-teste.png":
-/*!**************************************************!*\
-  !*** ./src/components/Header/img/logo-teste.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/logo-teste-3f39351821a1b82289bca29fa2fc7dd9.png");
 
 /***/ }),
 

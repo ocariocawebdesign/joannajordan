@@ -26,7 +26,7 @@ const Content = () => (
                           <div className="box-1 box-content_primary_1 ">
                                     <div className="img-profile-center">
                                           <img
-                                            className="img-profile"
+                                            className="img-profile animate__animated animate__zoomIn"
                                             src={Profile}
                                             alt="Foto perfil"
                                           />
@@ -37,17 +37,20 @@ const Content = () => (
 
                                           <div  className="row">
         <div  className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
-          <img src={Joanna1} className="foto-sobre" alt=""/>
+          <img src={Joanna1} className="foto-sobre animate__animated animate__backInLeft" alt=""/>
       </div>
 
       <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
 
-        <p className="text-left name-title-header">Joanna Jordan, hoje trabalha como personal trainner em várias academias do Rio de Janeiro e tem como principal desafio levar saúde as pessoas.<br/>
+        <p className="text-left name-title-header animate__animated animate__backInRight">Joanna Jordan, hoje trabalha como personal trainner em várias academias do Rio de Janeiro e tem como principal desafio levar saúde as pessoas.<br/>
         Sua paixão pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.<br/> <cite>O esporte salvou minha vida!</cite></p><brr/>
         
 
       </div>
       </div>
+      <br/>
+      <br/> 
+                              <p className="name-title-header">Me siga no instagram</p>
                                           <div id="container-instagram-feed">
                                           <InstagramFeed className="col-xs-12 col-sm-12 instagram-imgs" token={'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD'}  counter="12"/>
                                           <br/>

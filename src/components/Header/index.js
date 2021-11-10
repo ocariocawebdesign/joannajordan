@@ -6,10 +6,10 @@ import React from "react";
 const Header = () => (
   <header>
     <div className="container">
-
+    
               <div className="row">
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                  <h4 className="text-center name-title-header">Bem vinda ao próximo nível!</h4>
+                  <h1 className="text-center name-title-header animate__animated animate__backInLeft">Bem vinda ao próximo nível!</h1>
 
                 </div>
                 
