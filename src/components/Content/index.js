@@ -31,7 +31,7 @@ const Content = () => (
                                       </div>
                                           <h1 className="text-center name-title">Joanna Jordan</h1>
                                           <p className="text-center">🏆 Bicampeã Wellness</p>
-                                          <h5 className="text-center"> 🧠 Ajudo mulheres a explorar o máximo do seu potencial fisico e mental 🔥</h5>
+                                          <h5 className="text-center"></h5>
                                           <div id="container-instagram-feed">
                                           <InstagramFeed className="col-xs-12 col-sm-12 instagram-imgs" token={'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD'}  counter="12"/>
                                           <br/>
