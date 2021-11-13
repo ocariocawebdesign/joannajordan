@@ -835,10 +835,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Content_img_profile_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Content/img/profile.png */ "./src/components/Content/img/profile.png");
 /* harmony import */ var _Content_img_joanna1_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Content/img/joanna1.png */ "./src/components/Content/img/joanna1.png");
 /* harmony import */ var _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Content/img/joanna1.jpg */ "./src/components/Content/img/joanna1.jpg");
-/* harmony import */ var react_ig_feed__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-ig-feed */ "./node_modules/react-ig-feed/dist/index.modern.js");
-/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-ig-feed/dist/index.css */ "./node_modules/react-ig-feed/dist/index.css");
-/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var disqus_react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! disqus-react */ "./node_modules/disqus-react/lib/index.js");
+/* harmony import */ var _Content_img_tattoo001_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Content/img/tattoo001.jpg */ "./src/components/Content/img/tattoo001.jpg");
+/* harmony import */ var _Content_img_tattoo002_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Content/img/tattoo002.jpg */ "./src/components/Content/img/tattoo002.jpg");
+/* harmony import */ var _Content_img_tattoo003_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Content/img/tattoo003.jpg */ "./src/components/Content/img/tattoo003.jpg");
+/* harmony import */ var _Content_img_tattoo01_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Content/img/tattoo01.jpg */ "./src/components/Content/img/tattoo01.jpg");
+/* harmony import */ var _Content_img_tattoo02_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Content/img/tattoo02.jpg */ "./src/components/Content/img/tattoo02.jpg");
+/* harmony import */ var _Content_img_tattoo03_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../Content/img/tattoo03.jpg */ "./src/components/Content/img/tattoo03.jpg");
+/* harmony import */ var react_ig_feed__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! react-ig-feed */ "./node_modules/react-ig-feed/dist/index.modern.js");
+/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react-ig-feed/dist/index.css */ "./node_modules/react-ig-feed/dist/index.css");
+/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var disqus_react__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! disqus-react */ "./node_modules/disqus-react/lib/index.js");
+
+
+
+
+
+
 
 
 
@@ -888,11 +900,11 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-left name-title-header animate__animated animate__backInRight"
-}, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. Praesent vitae tempor lectus, in viverra ante. Integer aliquam, nisi quis auctor viverra, sem lectus eleifend velit, et cursus justo lorem tempor urna. Sed lobortis mi a nulla accumsan, et scelerisque metus efficitur. Sed blandit sed eros nec congue. Nam eget nisl lorem. Suspendisse potenti. Integer ut cursus felis, maximus mollis metus. "))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. "))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "name-title-header"
 }, "Me siga no instagram"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "container-instagram-feed"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_4__["default"], {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_10__["default"], {
   className: "col-xs-12 col-sm-12 instagram-imgs",
   token: 'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD',
   counter: "12"
@@ -907,7 +919,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_joanna1_png__WEBPACK_IMPORTED_MODULE_2__["default"],
+  src: _Content_img_tattoo001_jpg__WEBPACK_IMPORTED_MODULE_4__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -924,7 +936,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_joanna1_png__WEBPACK_IMPORTED_MODULE_2__["default"],
+  src: _Content_img_tattoo002_jpg__WEBPACK_IMPORTED_MODULE_5__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -941,7 +953,64 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_joanna1_png__WEBPACK_IMPORTED_MODULE_2__["default"],
+  src: _Content_img_tattoo003_jpg__WEBPACK_IMPORTED_MODULE_6__["default"],
+  class: "card-img-top",
+  alt: ""
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "card-body"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+  className: "card-title"
+}, "Hip Hop Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+  className: "card-text"
+}, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  href: "#",
+  className: "btn btn-primary"
+}, "Saiba mais..."))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
+  id: "conteudo-fotos-2"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "container"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "row"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "col-xs-12 col-sm-12 col-md-4 col-lg-4"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "card"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+  src: _Content_img_tattoo01_jpg__WEBPACK_IMPORTED_MODULE_7__["default"],
+  class: "card-img-top",
+  alt: ""
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "card-body"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+  className: "card-title"
+}, "Hip Hop Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+  className: "card-text"
+}, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  href: "#",
+  className: "btn btn-primary"
+}, "Saiba mais...")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "col-xs-12 col-sm-12 col-md-4 col-lg-4"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "card"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+  src: _Content_img_tattoo02_jpg__WEBPACK_IMPORTED_MODULE_8__["default"],
+  class: "card-img-top",
+  alt: ""
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "card-body"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+  className: "card-title"
+}, "Hip Hop Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+  className: "card-text"
+}, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  href: "#",
+  className: "btn btn-primary"
+}, "Saiba mais...")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "col-xs-12 col-sm-12 col-md-4 col-lg-4"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "card"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+  src: _Content_img_tattoo03_jpg__WEBPACK_IMPORTED_MODULE_9__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -957,7 +1026,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-12 col-lg-12"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(disqus_react__WEBPACK_IMPORTED_MODULE_6__.DiscussionEmbed, {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(disqus_react__WEBPACK_IMPORTED_MODULE_12__.DiscussionEmbed, {
   shortname: "ocariocaweb",
   config: {
     url: 'http://localhost:8000/',
@@ -3203,6 +3272,96 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/profile-381a7826e7b1a5c169f0ac800abfe944.png");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/tattoo001.jpg":
+/*!**************************************************!*\
+  !*** ./src/components/Content/img/tattoo001.jpg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo001-3897d8115cb388b43d274198ffd4b88d.jpg");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/tattoo002.jpg":
+/*!**************************************************!*\
+  !*** ./src/components/Content/img/tattoo002.jpg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo002-fab1490089c9e0b89b33d7129aa0f560.jpg");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/tattoo003.jpg":
+/*!**************************************************!*\
+  !*** ./src/components/Content/img/tattoo003.jpg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo003-80cd3d87dd70bf70978b16614ccccc4c.jpg");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/tattoo01.jpg":
+/*!*************************************************!*\
+  !*** ./src/components/Content/img/tattoo01.jpg ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo01-378501167b2e468f0dd96d7a4cd82149.jpg");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/tattoo02.jpg":
+/*!*************************************************!*\
+  !*** ./src/components/Content/img/tattoo02.jpg ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo02-2da89e2845deef2a84904aa1bb707b5f.jpg");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/tattoo03.jpg":
+/*!*************************************************!*\
+  !*** ./src/components/Content/img/tattoo03.jpg ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo03-5107175cae0efcc786a1100585714348.jpg");
 
 /***/ }),
 

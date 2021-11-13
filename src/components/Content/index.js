@@ -46,40 +46,17 @@ const Content = () => (
 
                                           <div  className="row">
         <div  className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
-          <img src={Joanna1} className="foto-sobre animate__animated animate__backInLeft img-thumbnail" alt=""/>
+          <img src={Joanna1} className="animate__animated animate__backInLeft img-thumbnail " alt=""/>
       </div>
 
       <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
 
-        <p className="text-left name-title-header animate__animated animate__backInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. Praesent vitae tempor lectus, in viverra ante. Integer aliquam, nisi quis auctor viverra, sem lectus eleifend velit, et cursus justo lorem tempor urna. Sed lobortis mi a nulla accumsan, et scelerisque metus efficitur. Sed blandit sed eros nec congue. Nam eget nisl lorem. Suspendisse potenti. Integer ut cursus felis, maximus mollis metus. </p>
+        <p className="text-left name-title-header animate__animated animate__backInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. </p>
 
 
       </div>
       </div>
       <br/>
-      <br/>
-                              <p className="name-title-header">Me siga no instagram</p>
-                                          <div id="container-instagram-feed">
-                                          <InstagramFeed className="col-xs-12 col-sm-12 instagram-imgs" token={'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD'}  counter="12"/>
-                                          <br/>
-
-
-                                          </div>
-
-
-                          </div>
-
-                      </div>
-                  </div>
-              </section>
-
-          </div>
-      </div>
-
-
-
-
-    </section>
       <section id="conteudo-fotos">
         <div className="container">
           <div className="row">
@@ -169,6 +146,32 @@ const Content = () => (
           </div>
         </div>
       </section>
+      <br/>
+                              <p className="name-title-header">Me siga no instagram</p>
+                                          <div id="container-instagram-feed">
+                                          <InstagramFeed className="col-xs-12 col-sm-12 instagram-imgs" token={'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD'}  counter="12"/>
+                                          <br/>
+
+
+                                          </div>
+
+
+                          </div>
+
+                      </div>
+                  </div>
+              </section>
+
+          </div>
+      </div>
+
+
+
+
+    </section>
+
+
+      
 
 
       <section>
