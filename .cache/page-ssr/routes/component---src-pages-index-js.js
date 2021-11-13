@@ -872,9 +872,9 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   alt: "Foto perfil"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
   className: "text-center name-title-header"
-}, "Joanna Jordan"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, "Urban Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-center"
-}, "\uD83C\uDFC6 Bicampea\u0303 Wellness"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
+}, "The Vinil Culture"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
   className: "text-center"
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "row"
@@ -888,7 +888,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-left name-title-header animate__animated animate__backInRight"
-}, "Joanna Jordan, hoje trabalha como personal trainner em v\xE1rias academias do Rio de Janeiro e tem como principal desafio levar sa\xFAde as pessoas.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), "Sua paix\xE3o pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("cite", null, "O esporte salvou minha vida!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("brr", null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. Praesent vitae tempor lectus, in viverra ante. Integer aliquam, nisi quis auctor viverra, sem lectus eleifend velit, et cursus justo lorem tempor urna. Sed lobortis mi a nulla accumsan, et scelerisque metus efficitur. Sed blandit sed eros nec congue. Nam eget nisl lorem. Suspendisse potenti. Integer ut cursus felis, maximus mollis metus. "))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "name-title-header"
 }, "Me siga no instagram"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "container-instagram-feed"
@@ -914,9 +914,9 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "card-body"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
   className: "card-title"
-}, "Treinos"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, "Hip Hop Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "card-text"
-}, "Ganhe massa magra em pouco tempo de teino. Fa\xE7o e acompnhaho seus treinos."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+}, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
   href: "#",
   className: "btn btn-primary"
 }, "Saiba mais...")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -931,9 +931,9 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "card-body"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
   className: "card-title"
-}, "Nutri\xE7\xE3o"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, "Hip Hop Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "card-text"
-}, "Coma sem engorgar com minha dicas e receitas fitness"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+}, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
   href: "#",
   className: "btn btn-primary"
 }, "Saiba mais...")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -948,9 +948,9 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "card-body"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h5", {
   className: "card-title"
-}, "F\xEDsico e mental"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, "Hip Hop Style"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "card-text"
-}, "O equil\xEDbrio e o mais importante para um corpo e mente saud\xE1vel."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+}, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
   href: "#",
   className: "btn btn-primary"
 }, "Saiba mais..."))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -963,7 +963,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
     url: 'http://localhost:8000/',
     identifier: 0,
     title: 'comentarios com react',
-    language: 'pt_BR' //e.g. for Traditional Chinese (Taiwan)	
+    language: 'pt_BR' //e.g. for Traditional Chinese (Taiwan)
 
   }
 }))))));
@@ -1027,14 +1027,12 @@ const Header = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().c
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
-  className: "text-center name-title-header animate__animated animate__backInLeft"
-}, "Bem vinda ao pr\xF3ximo n\xEDvel!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "box-header-2",
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 "
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h6", {
   className: "text-center name-title-header"
-}, "\uD83E\uDDE0 Ajudo mulheres a explorar o m\xE1ximo do seu potencial fisico e mental \uD83D\uDD25")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null))));
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null))));
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);
 
@@ -3174,7 +3172,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/joanna1-a90e3e6c2a573a7effc203cd99d0430f.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/joanna1-31c117db7977de2f3ae1a88e9214ad07.jpg");
 
 /***/ }),
 
@@ -3189,7 +3187,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/joanna1-0ac0e9845de6dc68a37eaf5d8f692891.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/joanna1-fc2925be1d0048f5ef3de937ebf88417.png");
 
 /***/ }),
 
@@ -3204,7 +3202,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/profile-c565c0fde8cc33f38ef16f559973a482.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/profile-381a7826e7b1a5c169f0ac800abfe944.png");
 
 /***/ }),
 

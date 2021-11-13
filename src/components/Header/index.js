@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../Header/img/logo-teste.png";
+//import Logo from "../Header/img/logo-teste.png";
 //import InstagramLogo from "../Footer/img/instagram.png"
 //import WhatsAppLogo from "../Footer/img/whatsapp.png"
 
@@ -9,7 +9,6 @@ const Header = () => (
 
               <div className="row">
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                  <img className="animate__animated animate__backInLeft img-fluid" src={Logo} />
 
                 </div>
 

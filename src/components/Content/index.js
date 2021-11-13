@@ -2,6 +2,15 @@ import React from "react";
 import Profile from "../Content/img/profile.png";
 import JoannaCard1 from "../Content/img/joanna1.png";
 import Joanna1 from "../Content/img/joanna1.jpg";
+import TattooSec1 from "../Content/img/tattoo001.jpg"
+import TattooSec2 from "../Content/img/tattoo002.jpg"
+import TattooSec3 from "../Content/img/tattoo003.jpg"
+
+
+
+import Tattoo from "../Content/img/tattoo01.jpg"
+import Tattoo2 from "../Content/img/tattoo02.jpg"
+import Tattoo3 from "../Content/img/tattoo03.jpg"
 
 
 import InstagramFeed  from 'react-ig-feed'
@@ -77,7 +86,7 @@ const Content = () => (
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 
             <div className="card">
-              <img src={JoannaCard1} class="card-img-top" alt=""/>
+              <img src={TattooSec1} class="card-img-top" alt=""/>
               <div className="card-body">
                 <h5 className="card-title">Hip Hop Style</h5>
                 <p className="card-text">Make your beats.</p>
@@ -90,7 +99,7 @@ const Content = () => (
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 
             <div className="card">
-              <img src={JoannaCard1} class="card-img-top" alt=""/>
+              <img src={TattooSec2} class="card-img-top" alt=""/>
               <div className="card-body">
               <h5 className="card-title">Hip Hop Style</h5>
               <p className="card-text">Make your beats.</p>
@@ -103,7 +112,52 @@ const Content = () => (
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 
             <div className="card">
-            <img src={JoannaCard1} class="card-img-top" alt=""/>
+            <img src={TattooSec3} class="card-img-top" alt=""/>
+              <div className="card-body">
+              <h5 className="card-title">Hip Hop Style</h5>
+              <p className="card-text">Make your beats.</p>
+                <a href="#" className="btn btn-primary">Saiba mais...</a>
+              </div>
+            </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+      <br/>
+      <section id="conteudo-fotos-2">
+        <div className="container">
+          <div className="row">
+            <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+
+            <div className="card">
+              <img src={Tattoo} class="card-img-top" alt=""/>
+              <div className="card-body">
+                <h5 className="card-title">Hip Hop Style</h5>
+                <p className="card-text">Make your beats.</p>
+                <a href="#" className="btn btn-primary">Saiba mais...</a>
+              </div>
+            </div>
+
+
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+
+            <div className="card">
+              <img src={Tattoo2} class="card-img-top" alt=""/>
+              <div className="card-body">
+              <h5 className="card-title">Hip Hop Style</h5>
+              <p className="card-text">Make your beats.</p>
+                <a href="#" className="btn btn-primary">Saiba mais...</a>
+              </div>
+            </div>
+
+
+            </div>
+            <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+
+            <div className="card">
+            <img src={Tattoo3} class="card-img-top" alt=""/>
               <div className="card-body">
               <h5 className="card-title">Hip Hop Style</h5>
               <p className="card-text">Make your beats.</p>
@@ -120,6 +174,7 @@ const Content = () => (
       <section>
       <div className="row">
       <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
 
       <DiscussionEmbed
         shortname='ocariocaweb'
