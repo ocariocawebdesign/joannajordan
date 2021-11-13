@@ -11,7 +11,7 @@ import { DiscussionEmbed } from 'disqus-react';
 
 
 const Content = () => (
-  
+
   <div className="container">
     <main>
 
@@ -19,7 +19,7 @@ const Content = () => (
       <div className="row">
           <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-            
+
               <section id="conteudo-1">
                   <div className="row">
                       <div id="block-1" className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -31,44 +31,43 @@ const Content = () => (
                                             alt="Foto perfil"
                                           />
                                       </div>
-                                          <h1 className="text-center name-title-header">Joanna Jordan</h1>
-                                          <p className="text-center">🏆 Bicampeã Wellness</p>
+                                          <h1 className="text-center name-title-header">Urban Style</h1>
+                                          <p className="text-center">The Vinil Culture</p>
                                           <h5 className="text-center"></h5>
 
                                           <div  className="row">
         <div  className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
-          <img src={Joanna1} className="foto-sobre animate__animated animate__backInLeft" alt=""/>
+          <img src={Joanna1} className="foto-sobre animate__animated animate__backInLeft img-thumbnail" alt=""/>
       </div>
 
       <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre">
 
-        <p className="text-left name-title-header animate__animated animate__backInRight">Joanna Jordan, hoje trabalha como personal trainner em várias academias do Rio de Janeiro e tem como principal desafio levar saúde as pessoas.<br/>
-        Sua paixão pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.<br/> <cite>O esporte salvou minha vida!</cite></p><brr/>
-        
+        <p className="text-left name-title-header animate__animated animate__backInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. Praesent vitae tempor lectus, in viverra ante. Integer aliquam, nisi quis auctor viverra, sem lectus eleifend velit, et cursus justo lorem tempor urna. Sed lobortis mi a nulla accumsan, et scelerisque metus efficitur. Sed blandit sed eros nec congue. Nam eget nisl lorem. Suspendisse potenti. Integer ut cursus felis, maximus mollis metus. </p>
+
 
       </div>
       </div>
       <br/>
-      <br/> 
+      <br/>
                               <p className="name-title-header">Me siga no instagram</p>
                                           <div id="container-instagram-feed">
                                           <InstagramFeed className="col-xs-12 col-sm-12 instagram-imgs" token={'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD'}  counter="12"/>
                                           <br/>
-                                         
-                            
+
+
                                           </div>
-                                          
+
 
                           </div>
 
                       </div>
                   </div>
               </section>
-                 
+
           </div>
       </div>
 
-      
+
 
 
     </section>
@@ -76,25 +75,25 @@ const Content = () => (
         <div className="container">
           <div className="row">
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-            
+
             <div className="card">
               <img src={JoannaCard1} class="card-img-top" alt=""/>
               <div className="card-body">
-                <h5 className="card-title">Treinos</h5>
-                <p className="card-text">Ganhe massa magra em pouco tempo de teino. Faço e acompnhaho seus treinos.</p>
+                <h5 className="card-title">Hip Hop Style</h5>
+                <p className="card-text">Make your beats.</p>
                 <a href="#" className="btn btn-primary">Saiba mais...</a>
               </div>
             </div>
-        
-            
+
+
             </div>
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 
             <div className="card">
               <img src={JoannaCard1} class="card-img-top" alt=""/>
               <div className="card-body">
-                <h5 className="card-title">Nutrição</h5>
-                <p className="card-text">Coma sem engorgar com minha dicas e receitas fitness</p>
+              <h5 className="card-title">Hip Hop Style</h5>
+              <p className="card-text">Make your beats.</p>
                 <a href="#" className="btn btn-primary">Saiba mais...</a>
               </div>
             </div>
@@ -106,8 +105,8 @@ const Content = () => (
             <div className="card">
             <img src={JoannaCard1} class="card-img-top" alt=""/>
               <div className="card-body">
-                <h5 className="card-title">Físico e mental</h5>
-                <p className="card-text">O equilíbrio e o mais importante para um corpo e mente saudável.</p>
+              <h5 className="card-title">Hip Hop Style</h5>
+              <p className="card-text">Make your beats.</p>
                 <a href="#" className="btn btn-primary">Saiba mais...</a>
               </div>
             </div>
@@ -117,22 +116,19 @@ const Content = () => (
         </div>
       </section>
 
-      
+
       <section>
       <div className="row">
       <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-        
-
-
-      <DiscussionEmbed 
+      <DiscussionEmbed
         shortname='ocariocaweb'
         config={
           {
               url: 'http://localhost:8000/',
               identifier: 0,
               title: 'comentarios com react',
-              language: 'pt_BR' //e.g. for Traditional Chinese (Taiwan)	
+              language: 'pt_BR' //e.g. for Traditional Chinese (Taiwan)
           }
       }
   />

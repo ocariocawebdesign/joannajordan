@@ -867,7 +867,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "img-profile-center"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  className: "img-profile",
+  className: "img-profile animate__animated animate__zoomIn",
   src: _Content_img_profile_png__WEBPACK_IMPORTED_MODULE_1__["default"],
   alt: "Foto perfil"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
@@ -882,13 +882,15 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
   src: _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_3__["default"],
-  className: "foto-sobre",
+  className: "foto-sobre animate__animated animate__backInLeft img-thumbnail",
   alt: ""
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-  className: "text-left name-title-header"
-}, "Joanna Jordan, hoje trabalha como personal trainner em v\xE1rias academias do Rio de Janeiro e tem como principal desafio levar sa\xFAde as pessoas.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), "Sua paix\xE3o pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("cite", null, "O esporte salvou minha vida!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("brr", null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  className: "text-left name-title-header animate__animated animate__backInRight"
+}, "Joanna Jordan, hoje trabalha como personal trainner em v\xE1rias academias do Rio de Janeiro e tem como principal desafio levar sa\xFAde as pessoas.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), "Sua paix\xE3o pelo esporte nasceu cedo quando ainda era adolescente. Participou de diversos campeonatos sempre se destacando.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("cite", null, "O esporte salvou minha vida!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("brr", null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+  className: "name-title-header"
+}, "Me siga no instagram"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "container-instagram-feed"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_4__["default"], {
   className: "col-xs-12 col-sm-12 instagram-imgs",
@@ -1025,8 +1027,8 @@ const Header = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().c
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h4", {
-  className: "text-center name-title-header"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
+  className: "text-center name-title-header animate__animated animate__backInLeft"
 }, "Bem vinda ao pr\xF3ximo n\xEDvel!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "box-header-2",
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 "
@@ -1058,6 +1060,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../css/style.css */ "./src/css/style.css");
 /* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_css_style_css__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _css_animate_min_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../css/animate.min.css */ "./src/css/animate.min.css");
+/* harmony import */ var _css_animate_min_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_css_animate_min_css__WEBPACK_IMPORTED_MODULE_6__);
+
 
 
 
@@ -2784,6 +2789,16 @@ exports.FetchError = FetchError;
 /*!***************************************************!*\
   !*** ./node_modules/react-ig-feed/dist/index.css ***!
   \***************************************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
+/***/ "./src/css/animate.min.css":
+/*!*********************************!*\
+  !*** ./src/css/animate.min.css ***!
+  \*********************************/
 /***/ (() => {
 
 
