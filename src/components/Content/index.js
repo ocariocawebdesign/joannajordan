@@ -67,14 +67,6 @@ const Content = () => (
                         <br />
                       </div>
                     </div>
-                    <a
-                      className=""
-                      onClick={ButtonWp}
-                      alt="Logo para Whatsapp"
-                      title="Fale comigo"
-                    >
-                      <img src={LogoWhatsApp} />
-                    </a>
                     <br />
 
                     <section id="conteudo-fotos">
@@ -95,6 +87,7 @@ const Content = () => (
                                 </a>
                               </div>
                             </div>
+                            <br />
                           </div>
                           <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                             <div className="card">
@@ -111,6 +104,7 @@ const Content = () => (
                                 </a>
                               </div>
                             </div>
+                            <br />
                           </div>
                           <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                             <div className="card">
@@ -127,6 +121,7 @@ const Content = () => (
                                 </a>
                               </div>
                             </div>
+                            <br />
                           </div>
                         </div>
                       </div>
@@ -146,6 +141,7 @@ const Content = () => (
                                 </a>
                               </div>
                             </div>
+                            <br />
                           </div>
                           <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                             <div className="card">
@@ -158,6 +154,7 @@ const Content = () => (
                                 </a>
                               </div>
                             </div>
+                            <br />
                           </div>
                           <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                             <div className="card">
@@ -170,6 +167,7 @@ const Content = () => (
                                 </a>
                               </div>
                             </div>
+                            <br />
                           </div>
                         </div>
                       </div>
