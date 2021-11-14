@@ -833,24 +833,28 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Content_img_profile_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Content/img/profile.png */ "./src/components/Content/img/profile.png");
-/* harmony import */ var _Content_img_joanna1_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Content/img/joanna1.png */ "./src/components/Content/img/joanna1.png");
-/* harmony import */ var _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Content/img/joanna1.jpg */ "./src/components/Content/img/joanna1.jpg");
-/* harmony import */ var _Content_img_tattoo001_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Content/img/tattoo001.jpg */ "./src/components/Content/img/tattoo001.jpg");
-/* harmony import */ var _Content_img_tattoo002_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Content/img/tattoo002.jpg */ "./src/components/Content/img/tattoo002.jpg");
-/* harmony import */ var _Content_img_tattoo003_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Content/img/tattoo003.jpg */ "./src/components/Content/img/tattoo003.jpg");
-/* harmony import */ var _Content_img_tattoo01_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Content/img/tattoo01.jpg */ "./src/components/Content/img/tattoo01.jpg");
-/* harmony import */ var _Content_img_tattoo02_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Content/img/tattoo02.jpg */ "./src/components/Content/img/tattoo02.jpg");
-/* harmony import */ var _Content_img_tattoo03_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../Content/img/tattoo03.jpg */ "./src/components/Content/img/tattoo03.jpg");
-/* harmony import */ var react_ig_feed__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! react-ig-feed */ "./node_modules/react-ig-feed/dist/index.modern.js");
-/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react-ig-feed/dist/index.css */ "./node_modules/react-ig-feed/dist/index.css");
-/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var disqus_react__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! disqus-react */ "./node_modules/disqus-react/lib/index.js");
+/* harmony import */ var _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Content/img/joanna1.jpg */ "./src/components/Content/img/joanna1.jpg");
+/* harmony import */ var _Content_img_tattoo001_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Content/img/tattoo001.jpg */ "./src/components/Content/img/tattoo001.jpg");
+/* harmony import */ var _Content_img_tattoo002_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Content/img/tattoo002.jpg */ "./src/components/Content/img/tattoo002.jpg");
+/* harmony import */ var _Content_img_tattoo003_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Content/img/tattoo003.jpg */ "./src/components/Content/img/tattoo003.jpg");
+/* harmony import */ var _Content_img_whatsapp_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Content/img/whatsapp.png */ "./src/components/Content/img/whatsapp.png");
+/* harmony import */ var _button__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../button */ "./src/components/button/index.js");
+/* harmony import */ var _Content_img_tattoo01_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Content/img/tattoo01.jpg */ "./src/components/Content/img/tattoo01.jpg");
+/* harmony import */ var _Content_img_tattoo02_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../Content/img/tattoo02.jpg */ "./src/components/Content/img/tattoo02.jpg");
+/* harmony import */ var _Content_img_tattoo03_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../Content/img/tattoo03.jpg */ "./src/components/Content/img/tattoo03.jpg");
+/* harmony import */ var react_ig_feed__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react-ig-feed */ "./node_modules/react-ig-feed/dist/index.modern.js");
+/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! react-ig-feed/dist/index.css */ "./node_modules/react-ig-feed/dist/index.css");
+/* harmony import */ var react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(react_ig_feed_dist_index_css__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var disqus_react__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! disqus-react */ "./node_modules/disqus-react/lib/index.js");
+
+ //import JoannaCard1 from "../Content/img/joanna1.png";
 
 
 
 
 
 
+ //import Form1 from "../Form"
 
 
 
@@ -893,22 +897,21 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_3__["default"],
-  className: "foto-sobre animate__animated animate__backInLeft img-thumbnail",
+  src: _Content_img_joanna1_jpg__WEBPACK_IMPORTED_MODULE_2__["default"],
+  className: "animate__animated animate__backInLeft img-thumbnail ",
   alt: ""
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-6 col-lg-6 sobre"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-left name-title-header animate__animated animate__backInRight"
-}, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices. "))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-  className: "name-title-header"
-}, "Me siga no instagram"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-  id: "container-instagram-feed"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_10__["default"], {
-  className: "col-xs-12 col-sm-12 instagram-imgs",
-  token: 'IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD',
-  counter: "12"
-}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null))))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
+}, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et gravida eros. Nunc eleifend eros enim, lacinia malesuada sem porta quis. Aliquam scelerisque ac magna vitae ultricies. Sed ut erat faucibus urna ultricies fermentum. Nam tincidunt tortor ut est fringilla, eget sodales erat venenatis. Integer maximus ipsum ipsum, in vulputate dui lobortis at. Praesent luctus diam eget malesuada aliquet. Etiam scelerisque feugiat ultrices."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  className: "",
+  onClick: _button__WEBPACK_IMPORTED_MODULE_7__["default"],
+  alt: "Logo para Whatsapp",
+  title: "Fale comigo"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+  src: _Content_img_whatsapp_png__WEBPACK_IMPORTED_MODULE_6__["default"]
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
   id: "conteudo-fotos"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "container"
@@ -919,7 +922,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_tattoo001_jpg__WEBPACK_IMPORTED_MODULE_4__["default"],
+  src: _Content_img_tattoo001_jpg__WEBPACK_IMPORTED_MODULE_3__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -936,7 +939,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_tattoo002_jpg__WEBPACK_IMPORTED_MODULE_5__["default"],
+  src: _Content_img_tattoo002_jpg__WEBPACK_IMPORTED_MODULE_4__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -953,7 +956,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_tattoo003_jpg__WEBPACK_IMPORTED_MODULE_6__["default"],
+  src: _Content_img_tattoo003_jpg__WEBPACK_IMPORTED_MODULE_5__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -976,7 +979,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_tattoo01_jpg__WEBPACK_IMPORTED_MODULE_7__["default"],
+  src: _Content_img_tattoo01_jpg__WEBPACK_IMPORTED_MODULE_8__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -993,7 +996,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_tattoo02_jpg__WEBPACK_IMPORTED_MODULE_8__["default"],
+  src: _Content_img_tattoo02_jpg__WEBPACK_IMPORTED_MODULE_9__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -1010,7 +1013,7 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "card"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-  src: _Content_img_tattoo03_jpg__WEBPACK_IMPORTED_MODULE_9__["default"],
+  src: _Content_img_tattoo03_jpg__WEBPACK_IMPORTED_MODULE_10__["default"],
   class: "card-img-top",
   alt: ""
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -1022,17 +1025,27 @@ const Content = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().
 }, "Make your beats."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
   href: "#",
   className: "btn btn-primary"
-}, "Saiba mais..."))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+}, "Saiba mais..."))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
+  id: "instagram-feed"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+  className: "name-title-header"
+}, "Me siga no instagram"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  id: "container-instagram-feed"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(react_ig_feed__WEBPACK_IMPORTED_MODULE_11__["default"], {
+  className: "col-xs-12 col-sm-12 instagram-imgs",
+  token: "IGQVJVb3BQanBHMGlxT3V0b2xhNzFSNVFKQThEa2JUSU15TzhKYzJ0Yy1oTlZARM2VyM0NyelY2UFBnbU9mSlhMeVNkYk1NVlJBTUJHTWE2MUFCMmt1NGZAFS2l4bEFOZAW15UU1yU1ZAJU25tNFNUX0psbgZDZD",
+  counter: "12"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null)))))))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-12 col-lg-12"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(disqus_react__WEBPACK_IMPORTED_MODULE_12__.DiscussionEmbed, {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(disqus_react__WEBPACK_IMPORTED_MODULE_13__.DiscussionEmbed, {
   shortname: "ocariocaweb",
   config: {
-    url: 'http://localhost:8000/',
+    url: "http://localhost:8000/",
     identifier: 0,
-    title: 'comentarios com react',
-    language: 'pt_BR' //e.g. for Traditional Chinese (Taiwan)
+    title: "comentarios com react",
+    language: "pt_BR" //e.g. for Traditional Chinese (Taiwan)
 
   }
 }))))));
@@ -1054,8 +1067,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _Content_img_whatsapp_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Content/img/whatsapp.png */ "./src/components/Content/img/whatsapp.png");
+/* harmony import */ var _button__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../button */ "./src/components/button/index.js");
  //import InstagramLogo from "../Footer/img/instagram.png"
-//import WhatsAppLogo from "../Footer/img/whatsapp.png"
+
+
+
 
 const Footer = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("footer", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "container"
@@ -1063,7 +1080,14 @@ const Footer = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().c
   className: "row"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   className: "col-xs-12 col-sm-12 col-md-12 col-lg-12"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  className: "",
+  onClick: _button__WEBPACK_IMPORTED_MODULE_2__["default"],
+  alt: "Logo para Whatsapp",
+  title: "Fale comigo"
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+  src: _Content_img_whatsapp_png__WEBPACK_IMPORTED_MODULE_1__["default"]
+})), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
   className: "text-center"
 }, "Template Starter Gatsbyjs - Desenvolvido por Carlos Abreu - O Carioca Web - (21) 971025148 "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
   id: "box-footer-1"
@@ -1107,6 +1131,29 @@ const Header = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().c
 
 /***/ }),
 
+/***/ "./src/components/button/index.js":
+/*!****************************************!*\
+  !*** ./src/components/button/index.js ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+const WhatsappBtn = () => {
+  window.open(`https://api.whatsapp.com/send?phone=5521971025148&text=Olá! Acessei sua página pelo seu site card site! Quero mais informações sobre seu serviço.`);
+};
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (WhatsappBtn);
+
+/***/ }),
+
 /***/ "./src/pages/index.js":
 /*!****************************!*\
   !*** ./src/pages/index.js ***!
@@ -1135,24 +1182,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
- //import '../css/responsive.css';
-//import { Helmet } from "react-helmet";
 
-/*class Application extends React.Component {
-  render() {
-    return (
-      <div className="application">
-        <Helmet>
-          <meta charSet="utf-8" />
-          <title>O Carioca Web Design</title>
-          <link rel="canonical" href="https://ocariocapessoalcard.gatsbyjs.io/"/>
-        </Helmet>
-      </div>
-    )
-  }
-}
-
-*/
 
 const Home = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Header__WEBPACK_IMPORTED_MODULE_1__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Content__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_3__["default"], null));
 
@@ -3245,21 +3275,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./src/components/Content/img/joanna1.png":
-/*!************************************************!*\
-  !*** ./src/components/Content/img/joanna1.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/joanna1-fc2925be1d0048f5ef3de937ebf88417.png");
-
-/***/ }),
-
 /***/ "./src/components/Content/img/profile.png":
 /*!************************************************!*\
   !*** ./src/components/Content/img/profile.png ***!
@@ -3362,6 +3377,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/tattoo03-5107175cae0efcc786a1100585714348.jpg");
+
+/***/ }),
+
+/***/ "./src/components/Content/img/whatsapp.png":
+/*!*************************************************!*\
+  !*** ./src/components/Content/img/whatsapp.png ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/whatsapp-464a9a91419d3ccaa35665ff6ad41d7d.png");
 
 /***/ }),
 
